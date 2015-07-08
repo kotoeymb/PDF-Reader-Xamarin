@@ -4,6 +4,7 @@
 			<RightNavButton>
 				<Button id="toPDFListBtn">PDFs</Button>
 			</RightNavButton>
+			<View id="view1" layout="horizontal"></View>
 		</Window>
 	</NavigationWindow>
 </Alloy>
